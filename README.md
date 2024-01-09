@@ -1,6 +1,6 @@
 React Checkers Board
 
-This repository contains the code for a Checkers board implemented using React.js. While it does not include the full game logic, it provides a foundation for building a Checkers game by offering a responsive and interactive Checkers board.
+This repository contains the code for a Checkers board implemented using React.js. While it does not include the full game logic, it provides a foundation for building a Checkers game by offering a Checkers board.
 Table of Contents
 
 Introduction
