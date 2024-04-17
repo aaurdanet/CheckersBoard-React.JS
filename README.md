@@ -9,40 +9,5 @@ The React Checkers Board is a React.js-based web application that showcases a re
 
 Features
 
-    Clean Interface: The user interface is designed to be clear and straightforward, focusing on the Checkers board.
+Clean Interface: The user interface is designed to be clear and straightforward, focusing on the Checkers board.
 
-Installation
-
-    Clone this repository:
-
-    bash
-
-git clone https://github.com/your-username/CheckersBoard.git
-
-Navigate to the project directory:
-
-bash
-
-cd CheckersBoard
-
-Install dependencies:
-
-bash
-
-    npm install
-
-Usage
-
-    Start the development server:
-
-    bash
-
-    npm start
-
-    Open your web browser and go to http://localhost:3000.
-
-    Explore the interactive Checkers board.
-
-Customization
-
-Feel free to customize and extend this project to implement the complete Checkers game. Add game logic, player turns, and win conditions based on the Checkers rules.
